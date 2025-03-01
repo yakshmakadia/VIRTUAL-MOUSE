@@ -1,0 +1,12 @@
+  
+## requirements.txt
+```
+opencv-python
+pynput
+wxPython
+mediapipe
+numpy
+
+
+
+  
