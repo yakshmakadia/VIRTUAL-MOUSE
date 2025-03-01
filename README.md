@@ -24,7 +24,7 @@ This project aims to create a computer vision-based mouse controller using Pytho
 - **Mouse Control**: Maps gestures to mouse actions using pynput
 - **GUI Interface**: Allows users to tweak settings
 
-  
+
 ## Authors
 - Diva Merja
 - Makadia Yakshkumar Vijaykumar
